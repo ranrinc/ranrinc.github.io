@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Facebook",
+      "package": "ranrincbotman/driver-facebook",
+      "description": "Use BotMan with the Facebook messenger platform."
+    },
+    {
+      "name": "Telegram",
+      "package": "ranrincbotman/driver-telegram",
+      "description": "Use BotMan with the Telegram messenger."
+    },
+    {
+      "name": "Twilio",
+      "package": "ranrincbotman/driver-twilio",
+      "description": "Use BotMan with Nexmo to send and listen to SMS."
+    },
+    {
+      "name": "Web",
+      "package": "ranrincbotman/driver-web",
+      "description": "Use BotMan with your API/Website."
+    },
+    {
+      "name": "Line",
+      "package": "ranrincbotman/driver-line",
+      "description": "Use BotMan with the Line messenger."
+    }
+  ]
